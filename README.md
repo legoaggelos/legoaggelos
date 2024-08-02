@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @legoaggelos
-- 👀 I’m interested in cubing, gaming, programming and basketball.
+- 👀 I’m interested in cubing, gaming, programming, linux and basketball.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: dm me on discord
